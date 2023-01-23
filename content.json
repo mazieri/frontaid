@@ -1,3 +1,6 @@
 {
-"teste":"teste1"
+  "teste": "teste1",
+  "custom-object": {
+    "custom-line": "teste2"
+  }
 }
